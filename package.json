@@ -37,8 +37,8 @@
     "gettext-parser": "^4.0.4"
   },
   "devDependencies": {
-    "@angular/core": "^6.0.0",
-    "@angular/common": "^6.0.0",
+    "@angular/core": "8.2.14",
+    "@angular/common": "8.2.14",
     "@angular/platform-browser": "^6.0.0",
     "rxjs": "^6.0.0",
     "zone.js": "0.8.26",
