@@ -1,6 +1,6 @@
 {
   "name": "@edudip/ngx-translate-po-http-loader",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "Load po files for use with ngx-translate",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -29,9 +29,9 @@
   },
   "config": {},
   "peerDependencies": {
-    "@angular/core": "8.2.14",
-    "@angular/common": "8.2.14",
-    "@ngx-translate/core": "^10.0.0"
+    "@angular/core": "9.1.12",
+    "@angular/common": "^9.1.12",
+    "@ngx-translate/core": "^9.1.1"
   },
   "dependencies": {
     "gettext-parser": "^4.0.4"
